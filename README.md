@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # _The Particle Filter – Explanation and Applications_
 
 _By James O&#39;Connor_
@@ -163,3 +164,7 @@ The particle filter is a widely used algorithm not limited to localisation and t
 [11]  C. M. Subhra Kanti Das and K. Banerjee, &quot;GPU accelerated novel particle filtering method,&quot; _Computing,_ 2014. 
 
 [12]  T. L. T. Li, S. Sun and T. P. Sattar, &quot;Fight sample degeneracy and impoverishment in particle filters: A review of intelligent approaches,&quot; 2014. [Online]. Available: https://arxiv.org/pdf/1308.2443.pdf. [Accessed May 2021]. 
+=======
+# particle-filter
+Demonstration of the particle filter 
+>>>>>>> 8a1477172b4bb9682f04def4cb4d20c46ef2f807
